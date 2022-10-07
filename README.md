@@ -3,9 +3,11 @@ This project dives into a dataset provided by The Movie Database (TMDb) on thous
 The various properties associated with movies are visualized using multiple different plots to identify patterns in the data
 and answer the key question.
 
-## Key Question
+## Key Questions
 
-_What properties are associated with highly rated movies?_
+_1.What kinds of properties are associated with movies that have high revenues?_
+
+_2.Which genres are most popular from year to year?._
 
 ## Data Wrangling & Cleaning
 
